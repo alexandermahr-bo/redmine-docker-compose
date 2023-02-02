@@ -4,6 +4,6 @@ Run the setup via:
 
     docker-compose up --build
 
-logs of run found at [docker-compose-redmine-vanilla-empty-database.html](docker-compose-redmine-vanilla-empty-database.html)
+logs of run found at [docker-compose-redmine-vanilla-empty-database.html](docker-compose-redmine-vanilla-empty-database.html) (best to be downloaded and viewed in browser)
 
 
